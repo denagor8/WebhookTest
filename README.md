@@ -1,4 +1,5 @@
-# VAmPI
+# Test Project
+## VAmPI
 **The Vulnerable API** *(Based on OpenAPI 3)*
 ![vampi](https://i.imgur.com/zR0quKf.jpg)
 
